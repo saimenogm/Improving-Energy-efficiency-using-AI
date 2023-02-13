@@ -12,7 +12,7 @@
 </ul>
 
 
-<h2> What will the system do </h2>
+<h2> What the system does </h2>
 <ul>
 <li>Price forecasting</li>
 <li>Energy consumption forecasting</li>
@@ -30,10 +30,15 @@
 We used Deep reinforcement learning is used to maximize its returns (expected sum of rewards). The rewards in this case is supply of optimal energy to user, reduce energy consumption and optimize battery life.</li>
 </ul>
 
+<h2> Future plans</h2>
+<ul>
+<li>To integrate individual houses and buildings to a shared renewable energy microgrids.</li>
+<li>To Create micro-grids that users can sell and buy energy.</li>
+</ul>
+  
 <h2> System Developers </h2>
 <ul>
 <li>Simon Okbagergis Manna (Machine Learning Engineer and Software Developer)</li>
 <li>Solomon Woldegiorgis (Electrical and Electronics Engineer)</li>
 </ul>
-  
   

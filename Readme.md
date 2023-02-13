@@ -22,15 +22,15 @@
 </ul>
 
 
-<h2> Optimization Algorithms <h2>
+<h2> Optimization Algorithms </h2>
 <ul>
 <li>Genetic Algorithm (GA), and Particle Swarm Optimization (PSO) to get optimal schedule. PSO is used to pick the best time to use appliance.</li>
 <li>Deep learning to predict/Forecast energy generated from PV</li>
 </ul>
 
-<h2> System Developers <h2>
+<h2> System Developers </h2>
 <ul>
-<li>Simon Okbagergis Manna (Machine Learning Engineer and Developer)</li>
+<li>Simon Okbagergis Manna (Machine Learning Engineer and Software Developer)</li>
 <li>Solomon Woldegiorgis (Electrical and Electronics Engineer)</li>
 </ul>
   

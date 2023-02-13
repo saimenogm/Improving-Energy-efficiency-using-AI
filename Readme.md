@@ -1,5 +1,5 @@
 
-#Improving-Energy-efficiency-using-AI
+<h2>Improving-Energy-efficiency of Home and Offfice Buildings using-AI</h2>
 
 
 <h2> Goals </h2>
@@ -13,8 +13,25 @@
 
 
 <h2> What will the system do </h2>
-- Price forecasting
-- Energy consumption forecasting
-- Energy production forecast (PV generation and weather conditions)
-- to minimize the peak-to-average ratio while maximizing the OCL of consumers
-- Mobile App to analyze, monitor and predict your home energy generation and consumption.
+<ul>
+<li>Price forecasting</li>
+<li>Energy consumption forecasting</li>
+<li>Energy production forecast (PV generation and weather conditions)</li>
+<li>to minimize the peak-to-average ratio while maximizing the OCL of consumers</li>
+<li>Mobile App to analyze, monitor and predict your home energy generation and consumption.</li>
+</ul>
+
+
+<h2> Optimization Algorithms <h2>
+<ul>
+<li>Genetic Algorithm (GA), and Particle Swarm Optimization (PSO) to get optimal schedule. PSO is used to pick the best time to use appliance.</li>
+<li>Deep learning to predict/Forecast energy generated from PV</li>
+</ul>
+
+<h2> System Developers <h2>
+<ul>
+<li>Simon Okbagergis Manna (Machine Learning Engineer and Developer)</li>
+<li>Solomon Woldegiorgis (Electrical and Electronics Engineer)</li>
+</ul>
+  
+  

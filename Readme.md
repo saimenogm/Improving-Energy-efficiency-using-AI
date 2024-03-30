@@ -38,7 +38,7 @@ We used Deep reinforcement learning is used to maximize its returns (expected su
   
 <h2> System Developers </h2>
 <ul>
-<li>Simon Okbagergis Manna (Machine Learning Engineer and Software Developer)</li>
+<li>Simon Manna (AI & Machine Learning Engineer)</li>
 <li>Solomon Woldegiorgis (Electrical and Electronics Engineer)</li>
 </ul>
   

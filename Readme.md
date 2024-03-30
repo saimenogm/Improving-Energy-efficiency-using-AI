@@ -4,7 +4,7 @@
 
 <h2> Goals </h2>
 <ul>
-<li>To reduce energy consumption and energy cost</li>
+<li>To Optimize Energy consumption and energy cost</li>
 <li>To maximize customer satisfaction</li>
 <li>To increase battery life by making optimal charging and discharging ways</li>
 <li>Recommend and control best usage time of appliances that optimizes best battery life</li>
